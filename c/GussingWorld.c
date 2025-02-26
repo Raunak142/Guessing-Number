@@ -32,7 +32,4 @@ int main(){
 
         }
     } while (guess!=random);
-        
-    
-
 }
